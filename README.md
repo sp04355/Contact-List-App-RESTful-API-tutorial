@@ -46,7 +46,7 @@ app.use(express.static(__dirname + "/public"));
 	<title>Contact List App</title>
 </head>
 <body>
-<h1>Contact List App</h1>
+<h3>Contact List App</h3>
 </body>
 </html>
 13. restart the server, should update web page to the header "Contact List App"
